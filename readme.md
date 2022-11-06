@@ -13,6 +13,12 @@ LICENSE: [MIT](./license.md)
 2. [git add](./add.md)
 2. [git commit](./commit.md)
 2. [git clone](./clone.md)
+2. [git status](./status.md)
+2. [git log](./log.md)
+2. [git show](./show.md)
+2. [git diff](./diff.md)
+2. [git rm](./rm.md)
+2. 
 
 ---
 
