@@ -17,8 +17,15 @@ LICENSE: [MIT](./license.md)
 2. [git log](./log.md)
 2. [git show](./show.md)
 2. [git diff](./diff.md)
+2. [git difftool](./difftool)
+2. [git mv](./mv.md)
 2. [git rm](./rm.md)
-2. 
+2. [git reset](./reset.md)
+2. [git clean](./clean.md)
+2. [git branch](./branch.md)
+2. [git checkout](./checkout.md)
+2. [git merge](./merge.md)
+2. [git fetch](./fetch.md)
 
 ---
 
